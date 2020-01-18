@@ -1,3 +1,12 @@
+/*
+ * @Description: Arduino code for Digispark module
+ * @IDE: Arduino 1.8.9
+ * @Board: Digispark (Default 16.5mhz)
+ * @author: youtube.com/TheHLab
+ * @Date: Jan 18, 2020
+ * @Demo: https://youtu.be/UpWhX4H-uF0
+ */
+
 #include <VL53L0X.h>
 #include "Wire.h"
 
